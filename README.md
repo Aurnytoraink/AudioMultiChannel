@@ -13,7 +13,7 @@ Simply copy the AudioMultiChannel module (.cpp and .h files) into the same folde
 
 ## Example
 
-> [!info]
+> [!tip]
 > Don't forget to copy AudioMultiChannel module files to the project folder.
 
 - [MultipleSinewavesRecording](examples/MultipleSinewavesRecording/MultipleSinewavesRecording.ino): Generate 32 sine waves and record them in
